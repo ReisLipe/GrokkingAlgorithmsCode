@@ -1,2 +1,2 @@
 # GrokkingAlgorithmsCode
-Some code examples from Grokking Algorithms.
+Some code examples from Grokking Algorithms in Swift.
